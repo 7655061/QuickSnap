@@ -83,6 +83,8 @@ namespace CardGames.GameLogic
 			get { return _started; }
 		}
 
+
+
 		/// <summary>
 		/// Start the Snap game playing!
 		/// </summary>
